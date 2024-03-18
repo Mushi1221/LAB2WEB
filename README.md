@@ -11,3 +11,8 @@ Kita akan membuat sebuah program sederhana untuk membuat form data karyawan.
    ![Screenshot 2024-03-18 194355](https://github.com/Mushi1221/LAB2WEB/assets/115475520/036eaca5-fcd7-44c7-beed-a5abd7b306eb)
    ![Screenshot 2024-03-18 194407](https://github.com/Mushi1221/LAB2WEB/assets/115475520/1bee2ef1-2652-4926-af8e-049f3840667a)
    ![Screenshot 2024-03-18 194416](https://github.com/Mushi1221/LAB2WEB/assets/115475520/75e9a2b8-3480-4989-b295-024810db36ed)
+
+3. Jika sudah menambahkan code pada gambar, selanjutnya masuk ke browser kemudian ketikkan **localhost/LAB2WEB**
+4. Maka jika berhasil output yang akan muncul akan seperti gammbar dibawah
+
+![Screenshot 2024-03-18 191636](https://github.com/Mushi1221/LAB2WEB/assets/115475520/17991ec7-a522-4020-a46b-73f6834600fa)
