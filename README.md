@@ -18,4 +18,4 @@ Kita akan membuat sebuah program sederhana untuk membuat form data karyawan.
 ![Screenshot 2024-03-18 191636](https://github.com/Mushi1221/LAB2WEB/assets/115475520/17991ec7-a522-4020-a46b-73f6834600fa)
 
 
-###SEKIAN TERIMA KASIH
+### SEKIAN TERIMA KASIH
